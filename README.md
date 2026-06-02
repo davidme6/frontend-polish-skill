@@ -73,7 +73,7 @@ Copy-Item -Recurse -Force "frontend-polish-skill\skills\frontend-polish" "$env:U
 If you use a Codex marketplace installer that supports GitHub skill paths:
 
 ```bash
-npx codex-marketplace add davidme6/frontend-polish-skill/skills/frontend-polish
+npx codex-marketplace add davidme6/frontend-polish-skill/skills/frontend-polish --skill
 ```
 
 ## Example Prompts

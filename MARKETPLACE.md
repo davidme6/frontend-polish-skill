@@ -23,7 +23,7 @@ frontend, ui, ux, design, polish, responsive, react, vue, tailwind, codex-skill
 ## Install
 
 ```bash
-npx codex-marketplace add davidme6/frontend-polish-skill/skills/frontend-polish
+npx codex-marketplace add davidme6/frontend-polish-skill/skills/frontend-polish --skill
 ```
 
 Manual install:
